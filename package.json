@@ -1,0 +1,19 @@
+{
+  "name": "voice-bot-by-pai",
+  "version": "1.0.0",
+  "description": "Voice 24/7 Bot for Simon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pai",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ws": "^8.18.3"
+  }
+}
